@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+    margin: auto;
+}
+aside{
+    background-color: aqua;
+    border-radius: 10px;
+    max-width: 10cm;
+    padding-top: -20px;
+}
+.img{
+    display: flex;
+}
+ul{
+    margin-left: 10cm;
+    padding: 30px;
+}
+ul:hover{
+    cursor: pointer;
+    color: brown;
+}
+a{
+    text-decoration: none;
+    padding: 1.5cm;
+    margin-top: 2cm;
+}
+footer{
+    text-align: center;
+    cursor: pointer;
+}
+.o{
+    background-color: aqua;
+    max-width: 20cm;
+    margin-left: 12cm;
+    border-radius: 10px;
+    margin-top: -5cm;
+}
+.header{
+    background-color: aqua;
+    max-width: 10cm;
+    padding-top: 2cm;
+}
+img{
+    width: 10cm;
+    display: flex;
+}
+footer:hover{
+    color: brown;
+}
+footer{
+    background-color: red;
+    height: 1.5cm;
+    padding: 30px;
+}
